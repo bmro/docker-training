@@ -1,10 +1,10 @@
 # Docker training
 Docker training
 
-1. Docker e container
-2. Uso de contaier
-3. Imagens
+1. Docker & container
+2. Using container
+3. Images
 4. Volumes
 5. Docker Compose
 6. Cluster
-7. Algo que já conhecemos
+7. Some environment that we know (at Infraero)
